@@ -20,8 +20,6 @@
 
 #
 
-### Example Usage
-
 ![Photo Location](https://github.com/sourceduty/Photo_Location/assets/123030236/e54feced-430c-474a-9517-945b3b0ec1ca)
 [Image Link](https://www.researchgate.net/figure/Satellite-imagery-aerial-view-of-Bayfront-Park-Beach-Hamilton-Harbour-Lake-Ontario_fig1_348824483)
 
